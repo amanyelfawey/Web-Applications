@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+
+
+}
+
+span {
+    padding: 10px;
+}
+
+.bar {
+    float: right;
+    padding: 30px;
+    /* font-size: 10px; */
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 17px;
+    margin-left: auto;
+    opacity: 80%;
+
+
+
+}
+
+body {
+
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.home {
+    background-color: aquamarine;
+    text-align: center;
+    height: 100vh;
+    background-image: url(drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 0px;
+    color: white;
+
+
+}
+
+
+
+.head img {
+    width: 200px;
+    padding: 10px;
+    text-align: left;
+
+
+}
+
+h4 {
+    padding-top: 150px;
+    margin-bottom: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+h1 {
+    margin-bottom: 25px;
+    font-size: xx-large;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.home p {
+    margin-bottom: 25px;
+}
+
+.home .btn1 {
+    padding: 12px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(163, 126, 78);
+    color: white;
+
+
+}
+
+.home .btn2 {
+    padding: 10px 15px;
+    border-color: white;
+    border-radius: 4px;
+    background-color: transparent;
+    color: white;
+
+
+
+}
+
+.t3ref li {
+    opacity: 70%;
+}
+
+.t3ref img {
+    padding-top: 70px;
+    padding-left: 40;
+    padding-right: 40;
+    width: 650px;
+
+    ;
+
+}
+
+.t3ref h3 {
+    padding-bottom: 50;
+    padding-top: 70;
+    font-family: 'Josefin Sans', sans-serif;
+    opacity: 70%;
+
+}
+
+.t3ref p {
+    opacity: 70%;
+}
+
+
+.location {
+    padding-top: 50px;
+    background-color: whitesmoke
+}
+
+.location img {
+    width: 650px;
+    padding-top: 70px;
+    padding-left: 40;
+    padding-right: 40;
+
+}
+
+.location h3 {
+    padding-left: 50;
+    opacity: 70%;
+    padding-bottom: 50;
+    padding-top: 70;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.location p {
+    opacity: 70%;
+    padding-left: 50px
+}
+
+.item {
+    padding-top: 70px;
+    padding-left: 100px;
+    margin: 37px;
+    width: 350px;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+.item img {
+    width: 100%;
+
+}
+
+.item h3 {
+    margin-top: 5px;
+    padding: 10px;
+    opacity: 70%;
+}
+
+h2 {
+    padding-top: 150px;
+    text-align: center;
+    opacity: 70%;
+}
+
+p {
+    text-align: center;
+    opacity: 70%;
+}
+
+.contact {
+    background-color: whitesmoke;
+    padding-top: 50px
+}
+
+.contact h3 {
+    padding-left: 50px;
+    opacity: 70%;
+}
+
+.contact p {
+    padding-left: 50px;
+    font-size: x-small;
+    text-align: left;
+}
+
+.details {
+    padding-left: 50px;
+    padding-bottom: 70px;
+    background-color: rgb(58, 56, 52);
+
+}
+
+.details p {
+    color: white;
+    /* padding-left:  0px 0px; */
+}
+
+.details h4 {
+    color: white;
+}
+
+.details ul {
+    color: white;
+}
+
+.end {
+
+    background-color: rgb(49, 47, 44);
+
+}
+
+.end img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding-bottom: 100;
+    padding-top: 80;
+
+}
+
+.intro {
+    opacity: 70%;
+}
